@@ -1,0 +1,3 @@
+oldname:$6$IYnQAnSE$K/xfTg6qDlWNW4.0Oks.BntS9/XEq8oNgqXJqDBsteUMR6s1733HAloA.OIhkgw9mNAEUU6lf.FOfEldPvzL30:18382:0:99999:7:::
+oldname:x:1002:
+oldname:x:1001:1002::/home/newname:/bin/bash
